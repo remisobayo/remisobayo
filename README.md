@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @remisobayo
-- 👀 I’m a Database Engineer with over 7 years experience managing SQL Server databases . I am interested in Database Development and Data Engineer.
-- 🌱 I’m currently learning Azure SQL and Cloud database management.
-- 💞️ I’m looking to collaborate on Database Development.
+- 👀 I’m a Database Engineer with over 7 years experience managing SQL Server databases . I am interested in DevOps and Cloud Engineering.
+- 🌱 I’m currently learning and building several DevOps projects.
+- 💞️ I’m looking to collaborate on AWS, Cloud, DevOps and Database Administration.
 - 📫 How to reach me on LinkedIn, www.linkedin.com/in/remisobayo 
 
 <!---
